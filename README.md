@@ -1,0 +1,2 @@
+# FunctionTemplateCpp
+C++ Func Template
